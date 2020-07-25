@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://github.com/dhanusshk"><img src="https://img.shields.io/github/followers/dhanusshk.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/dhanusshk"><img src="https://img.shields.io/twitter/follow/dhanusshk?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/dhanusshk"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+ ![](https://visitor-badge.laobi.icu/badge?page_id=dhanusshk)
 - 😄 Pronouns: He / His
 
 
