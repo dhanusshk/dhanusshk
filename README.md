@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 	<a href="https://twitter.com/dhanusshk"><img src="https://img.shields.io/twitter/follow/dhanusshk?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/dhanusshk"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
  ![](https://visitor-badge.laobi.icu/badge?page_id=dhanusshk)
-- 😄 Pronouns: He / His
+
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dhanusshk&&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff)
